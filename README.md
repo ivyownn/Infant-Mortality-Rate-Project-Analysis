@@ -1,5 +1,7 @@
 # Infant-Mortality-Rate-Project-Analysis
 
+
+
 This project aims to analyze infant mortality rates ......... Python will be used for data preprocessing, analysis, and modeling, SQL for database management, and Tableau for data visualization.
 
 Source of data: https://data.unicef.org/resources/dataset/the-state-of-the-worlds-children-2023-statistical-tables/ 
