@@ -1,6 +1,6 @@
 # Import pandas library
 import pandas as pd
-#import plotly.express as px
+
 
 # Load the dataset
 df = pd.read_csv('/Users/aivee/Desktop/Capstone_Infant_Mortality/Infant-Mortality-Rate-Project-Analysis/IMR_One_output_file.csv')
@@ -22,11 +22,11 @@ print('The first five lines of the combined_df is:')
 print(' ')
 combined_df.head(5)
 
-print('')
+
 #check for column names:
 # df.columns
 combined_df.columns
-print('')
+
 
 print(' ')
 # Display the first few rows of the DataFrame

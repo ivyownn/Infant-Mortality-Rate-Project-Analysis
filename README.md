@@ -1,20 +1,23 @@
 # Infant-Mortality-Rate-Project-Analysis
+![Alt text](IMR_CodeYou_CP.png)
+This project aims to analyze infant mortality rates in the world while focusing on under-five mortality rate. According to UNICEF, the under-five mortality rate refers to the probability a newborn would die before reaching exactly 5 years of age, expressed per 1,000 live births". The year 2022, concluded with the death of 4.9 million children under 5 years of age. This means that 13,400 children under the age of 5 died every day in 2022.
+Factors including socio-economic factors, ... will be analysed.
+Trends based on continents?
 
 
-
-This project aims to analyze infant mortality rates ......... Python will be used for data preprocessing, analysis, and modeling, SQL for database management, and Tableau for data visualization.
+Python will be used for data preprocessing, analysis, and modeling, SQL for database management, and Tableau for data visualization.
 
 Source of data: https://data.unicef.org/resources/dataset/the-state-of-the-worlds-children-2023-statistical-tables/ 
 
 RESOURCES
-FEATURES:
-Data collection: Read in two .CSV data files
-Data processing: Cleaned data and performed a data merge with the two .csv files
-                    Calculated ......................
-                    Checked for null values
-                    Reorganized ......................
 
-Visualizatiion: Used Tableau to create a dashboard to display findings
+FEATURES:
+Data collection: Two .CSV data files were read
+Data processing: The data was cleaned and a data merge performed with the two .csv files
+                    Basic quality checks were then performed. eg: missing values and duplicates were checked for
+                    Unnecessary cells/information was deleted
+
+Visualizatiion: Tableau was used to create a dashboard to display the project analysis findings
 
 
 Resources Required:
