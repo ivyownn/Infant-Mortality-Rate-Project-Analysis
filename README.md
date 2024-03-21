@@ -9,7 +9,12 @@ Python will be used for data preprocessing, analysis, and modeling, SQL for data
 
 Source of data: https://data.unicef.org/resources/dataset/the-state-of-the-worlds-children-2023-statistical-tables/ 
 
-RESOURCES
+To run the project in Colab, upload the data files to your Google drive
+
+https://colab.research.google.com/drive/1bNERwBzOV2DsuH3T67IxC0X70CY_Qesa#scrollTo=V21SER2eHzZl 
+
+RESOURCES:
+Google Drive
 
 FEATURES:
 Data collection: Two .CSV data files were read
