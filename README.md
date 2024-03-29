@@ -89,6 +89,7 @@ This should pull up the project
 **Other resources:**
 
 https://data.unicef.org/resources/dataset/the-state-of-the-worlds-children-2023-statistical-tables/
+Perin, J., Mulick, A., Yeung, D., Villavicencio, F., Lopez, G., Strong, K. L., ... & Liu, L. (2022). Global, regional, and national causes of under-5 mortality in 2000–19: an updated systematic analysis with implications for the Sustainable Development Goals. The Lancet Child & Adolescent Health, 6(2), 106-115. 
 
 https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/
 
