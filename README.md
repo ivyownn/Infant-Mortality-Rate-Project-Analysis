@@ -54,11 +54,12 @@ https://data.unicef.org/resources/dataset/the-state-of-the-worlds-children-2023-
   b. To use venv in your project, in your terminal, create a new project folder, cd to the project folder in your terminal, and run the following command:
         ~ python<version> -m venv venv
     The second "venv" is the <virtual-environment-name>
-  c. Then run:
+  c. Activate the virtual environment.: ~ source venv/bin/activate.
+   d. Then run:
         ~ pip install -r requirements.txt
-4. Clone the repository by typing:
+5. Clone the repository by typing:
         ~ git clone followed by the link you copied from GitHub
-5. Run the project
+6. Run the project
 
 **How to Deactivate a Virtual Environment:**
 To deactivate your virtual environment, simply run the following code in the terminal:
